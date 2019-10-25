@@ -1,5 +1,9 @@
 # datasets-lists
 
-A lists of publicly available dataset website.
+A lists of publicly available dataset 
 
-- https://opendatanepal.com
+1. EarthQuake Data
+2. Nepal Tourism
+3. US Overstay
+4. Food Price in Kalimati  Market
+5. https://opendatanepal.com
